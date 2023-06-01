@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'MMSPecKit_Example' do
+  pod 'MMSPecKit', :path => '../'
+
+  target 'MMSPecKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
