@@ -1,0 +1,6 @@
+framework module MMSPecKit {
+  umbrella header "MMSPecKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

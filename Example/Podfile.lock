@@ -1,0 +1,16 @@
+PODS:
+  - MMSPecKit (0.1.0)
+
+DEPENDENCIES:
+  - MMSPecKit (from `../`)
+
+EXTERNAL SOURCES:
+  MMSPecKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MMSPecKit: 088d05b3d3e45441e2f34210b0f0843646b4e98d
+
+PODFILE CHECKSUM: ace7b7b41e2f85f67b67bf8a7e64314e984fbf3a
+
+COCOAPODS: 1.11.3
